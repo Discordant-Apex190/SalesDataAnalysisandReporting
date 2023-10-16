@@ -26,7 +26,7 @@ This repository hosts the code and resources for a comprehensive sales data anal
 
 - **Data Cleaning and Transformation**: The raw data from Kaggle required initial data cleaning. We performed tasks like handling missing values, addressing duplicates, and ensuring consistent date formatting. This clean data was vital for accurate analysis and predictions.
 
-- **Data Import into MySQL**: We created a MySQL database named `sales_data_analysis` and established a table within it, named `sales`. This SQL database served as a structured repository for our cleaned sales data. We employed MySQL's data import capabilities to efficiently load our data into the database, ensuring its organized storage.
+- **Data Import into MySQL**: We created a MySQL database named `sales_analysis` and established a table within it, named `sales`. This SQL database served as a structured repository for our cleaned sales data. We employed MySQL's data import capabilities to efficiently load our data into the database, ensuring its organized storage.
 
 
 ### Data Analysis with Python
