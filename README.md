@@ -5,7 +5,6 @@
 1. [Project Overview](#project-overview)
 2. [Tools Used](#tools-used)
 3. [Project Phases](#project-phases)
-4. [Project Benefits](#project-benefits)
 
 ## Project Overview
 
