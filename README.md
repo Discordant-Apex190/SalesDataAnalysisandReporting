@@ -35,7 +35,7 @@ Welcome to the Sales Data Analysis and Reporting project repository. This projec
 
 ### Data Visualization with Python
 
-- Create visualizations using libraries like and matplotlib to represent your findings.
+- Create visualizations using libraries like and matplotlib to represent my findings.
 
 ### Sales Prediction with Random Forest Regression
 
